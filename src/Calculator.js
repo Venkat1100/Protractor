@@ -1,5 +1,6 @@
 describe('Calculator Demo',function(){
 
+    console.log("The is the first git test");
     var d = require("./Objects2.js");
     var using = require("jasmine-data-provider");
     function calc(number1, number2, arithmaticOp){
